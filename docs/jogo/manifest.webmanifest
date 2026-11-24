@@ -1,0 +1,26 @@
+{
+  "name": "Further and more",
+  "short_name": "Further and ",
+  "description": "Defenda a arena cósmica de alvos e espantalhos em ondas retrô.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#3c0000",
+  "theme_color": "#3c0000",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
